@@ -3,7 +3,8 @@
 - 🔭 I'm in the 4th semester of the Systems Analysis and Development course.
 - 🌱 I’m currently learning back-end and mobile development.
 
-![Laisa Nascimento's GitHub stats](https://github-readme-stats.vercel.app/api?username=llaisanasc&show_icons=true&theme=tokyonight).
+
+![Laisa Nascimento's GitHub stats](https://github-readme-stats.vercel.app/api?username=llaisanasc&show_icons=true&theme=tokyonight&count_private=true).
 <!--![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=llaisanasc&layout=compact&theme=tokyonight)
 -->
 
