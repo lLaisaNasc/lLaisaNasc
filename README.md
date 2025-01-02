@@ -1,6 +1,6 @@
 ### Hi!  I'm Laisa Nascimento
 
-- 🔭 I'm in the 6th semester of the Systems Analysis and Development course.
+- 🔭 I have a degree in Systems Analysis and Development course.
 - 🌱 I’m currently learning back-end and mobile development.
 
 
